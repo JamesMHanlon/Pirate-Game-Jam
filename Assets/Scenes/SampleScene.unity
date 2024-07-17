@@ -317,11 +317,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ce0ffe7f09054a489e5abcec336a4b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timerTextUI: {fileID: 1228801761}
-  clickTextUI: {fileID: 122998906}
-  timer: 10
-  clickCount: 0
-  isTimerRunning: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
